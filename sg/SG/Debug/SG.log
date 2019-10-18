@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\vlad0\source\repos\SG\SG\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SG.vcxproj -> C:\Users\vlad0\source\repos\SG\Debug\SG.exe
